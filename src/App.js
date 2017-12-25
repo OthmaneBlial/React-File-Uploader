@@ -1,19 +1,3 @@
-# React-File-Uploader
-
-### Installation
-
-```bash
-npm install react-file-uploader --save
-```
-
-
-
-### [Demo](http://othmaneblial.github.io/react-file-uploader/)
-
-
-### Example
-
-```js
 import React, { Component } from 'react';
 import FileUploader from './FileUploader';
 
@@ -41,16 +25,3 @@ class App extends Component {
 }
 
 export default App;
-
-```
-
-
-### Development
-Want to run demos locally
-
-```bash
-git clone https://github.com/othmaneblial/reselect-for-react
-npm install
-npm run start
-open http://localhost:3000
-```
