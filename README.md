@@ -1,5 +1,7 @@
 # React-File-Uploader
 
+![alt text](https://github.com/OthmaneBlial/React-File-Uploader/blob/master/ReactFileUploader.gif)
+
 ### Installation
 
 ```bash
