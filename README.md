@@ -3,7 +3,7 @@
 ### Installation
 
 ```bash
-npm install react-file-uploader --save
+npm install react-file-uploader-preview --save
 ```
 
 
