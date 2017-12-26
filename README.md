@@ -51,7 +51,7 @@ export default App;
 Want to run demos locally
 
 ```bash
-git clone https://github.com/othmaneblial/reselect-for-react
+git clone https://github.com/OthmaneBlial/React-File-Uploader.git
 npm install
 npm run start
 open http://localhost:3000
